@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 640px;
+  margin: auto;
+  background-color: white;
+  font-size: 1rem;
+}
+
+.username {
+  font-weight: 500;
+  color: var(--main-blue);
+}
+
+.logout {
+  background: none;
+  border: none;
+  color: #e0245e;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.logout:hover {
+  text-decoration: underline;
+}

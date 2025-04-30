@@ -1,0 +1,22 @@
+.wrapper {
+  background-color: #e6ecf0;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 640px;
+  margin: auto;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.header {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--main-blue);
+  margin-bottom: 1.5rem;
+  text-align: center;
+}

@@ -1,12 +1,101 @@
 {
-    "tweets": [
-        {"id": "1", "author_id": "johnsmith", "text": "What are the pros of object-oriented programming?<br><br>Please, explain as if I'm 5."},
-        {"id": "2", "author_id": "carlanotarobot", "text": "Why use a debugger when you can fill your code with hundreds of <code>print()</code> statements?"},
-        {"id": "3", "author_id": "ameliawarner", "text": "Describe your relationship with JavaScript with one word."}
-    ],
-    "users": [
-        {"id": "johnsmith", "name": "John Smith", "email": "johnsmith@gmail.com"},
-        {"id": "carlanotarobot", "name": "Carla Notarobot", "email": "carlanotarobot@hotmail.com"},
-        {"id": "ameliawarner", "name": "Amelia Warner", "email": "ameliawarner@yahoo.com"}
-    ]
+  "tweets": [
+    {
+      "id": "1",
+      "author_id": "johnsmith",
+      "text": "What are the pros of object-oriented programming?<br><br>Please, explain as if I'm 5."
+    },
+    {
+      "id": "2",
+      "author_id": "carlanotarobot",
+      "text": "Why use a debugger when you can fill your code with hundreds of <code>print()</code> statements?"
+    },
+    {
+      "id": "3",
+      "author_id": "ameliawarner",
+      "text": "Describe your relationship with JavaScript with one word."
+    },
+    {
+      "id": "1744104900986",
+      "author_id": "dumitras123",
+      "text": "whats up?",
+      "time": "2025-04-08T09:35:00.986Z"
+    },
+    {
+      "id": "1744104910297",
+      "author_id": "dumitras123",
+      "text": "asdasdasd",
+      "time": "2025-04-08T09:35:10.297Z"
+    },
+    {
+      "id": "1744104913679",
+      "author_id": "dumitras123",
+      "text": "asadasdasd",
+      "time": "2025-04-08T09:35:13.679Z"
+    },
+    {
+      "id": "1744104917423",
+      "author_id": "dumitras123",
+      "text": "sadsadasdsad",
+      "time": "2025-04-08T09:35:17.423Z"
+    },
+    {
+      "id": "1744104923307",
+      "author_id": "dumitras123",
+      "text": "sadasdasd",
+      "time": "2025-04-08T09:35:23.307Z"
+    },
+    {
+      "id": "1744104952074",
+      "author_id": "dumitras123",
+      "text": "dcsadsedqw",
+      "time": "2025-04-08T09:35:52.074Z"
+    },
+    {
+      "id": "1744104960505",
+      "author_id": "dumitras123",
+      "text": "sadasd",
+      "time": "2025-04-08T09:36:00.505Z"
+    },
+    {
+      "id": "1744104976583",
+      "author_id": "dumitras123",
+      "text": "sadadasd",
+      "time": "2025-04-08T09:36:16.583Z"
+    },
+    {
+      "id": "1744104980188",
+      "author_id": "dumitras123",
+      "text": "zxcxcczcxz",
+      "time": "2025-04-08T09:36:20.188Z"
+    },
+    {
+      "id": "1744105007304",
+      "author_id": "dumitras123",
+      "text": "dsadasd",
+      "time": "2025-04-08T09:36:47.304Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "johnsmith",
+      "name": "John Smith",
+      "email": "johnsmith@gmail.com"
+    },
+    {
+      "id": "carlanotarobot",
+      "name": "Carla Notarobot",
+      "email": "carlanotarobot@hotmail.com"
+    },
+    {
+      "id": "ameliawarner",
+      "name": "Amelia Warner",
+      "email": "ameliawarner@yahoo.com"
+    },
+    {
+      "id": "dumitras123",
+      "name": "Mamaliga Dumitras",
+      "email": "dumitras@gmail.com"
+    }
+  ]
 }
